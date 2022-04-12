@@ -1,0 +1,30 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.maim {
+  flex: 1 0 auto;
+}
+nav {
+  background: rgb(255, 81, 0);
+}
+.parallax-container {
+  height: 300px;
+}
+.card-image > img {
+  width: 200px;
+  height: 130px;
+}
+.page-footer {
+  background: rgb(255, 81, 0);
+}
+.page-footer > .footer-copyright {
+  background: rgb(179, 52, 2);
+}
+.btn-large {
+  border-radius: 10%;
+}
+.waves-effect.waves-mycolor .waves-ripple {
+  background-color: rgb(255, 0, 119);
+}
